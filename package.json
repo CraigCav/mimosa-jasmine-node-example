@@ -1,0 +1,26 @@
+{
+  "name": "mimosa-jasmine-node-example",
+  "version": "0.0.1",
+  "homepage": "hhttps://github.com/craigcav/mimosa-jasmine-node-example",
+  "author": "Craig Cavalier",
+  "description": "An example demonstrating usage of https://github.com/craigcav/mimosa-jasmine-node",
+  "contributors": [
+    {
+      "name": "Craig Cavalier",
+      "email": "craigcav@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/craigcav/mimosa-jasmine-node-example"
+  },
+  "keywords": [
+    "mimosa",
+    "mmodule"
+  ],
+  "main": "./src/example",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
